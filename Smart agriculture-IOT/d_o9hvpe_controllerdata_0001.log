@@ -1,0 +1,11 @@
+2020-06-08 12:47:44,746   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-08 13:17:05,435   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 13:35:30,328   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 16:20:16,723   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 16:20:20,111   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-06-11 16:20:22,614   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 16:21:54,705   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 16:21:58,051   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-06-11 16:22:00,714   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
+2020-06-11 16:22:05,006   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-06-11 16:22:08,294   ibmiotf.device.Client      INFO    Connected successfully: d:o9hvpe:controllerdata:0001
